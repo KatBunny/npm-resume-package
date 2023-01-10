@@ -4,5 +4,3 @@ I have done this by making a directory and running nmp install to be able to pub
 
 In the info.json folder, I placed a template of how your information can be collected as data to build up your resume.
 
-
-
