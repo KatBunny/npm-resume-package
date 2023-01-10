@@ -11,8 +11,9 @@
     "url": "npm-resume-KatBunny"
   },
   "author": "Katherine S",
-  "license": "ISC"
-}
-"bin": {
+  "license": "ISC",
+  "bin": {
     "your-command-here": "./index.js"
-  },
+  }
+}
+
